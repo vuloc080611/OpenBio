@@ -38,9 +38,11 @@ You get a beautiful, responsive page that you can tweak endlessly – no monthly
 ### One‑click deploy
 Deploy your own copy to Vercel instantly:
 
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/your-username/openbio)
+
 ### Run locally
 ```bash
-git clone https://github.com/vuloc080611/openbio.git
+git clone https://github.com/your-username/openbio.git
 cd openbio
 npm install
 # Replace public/avatar.png with your photo
